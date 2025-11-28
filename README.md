@@ -33,7 +33,6 @@ Welcome to my GitHub! I'm passionate about breaking down security barriers and b
 - 🧠 Incident Response
 
 **Technical Skills:**
-- Languages: Python, Bash, SQL, JavaScript
 - Operating Systems: Linux, Windows, macOS
 - Networking: TCP/IP, DNS, HTTP/HTTPS, SSL/TLS
 
@@ -44,9 +43,6 @@ Welcome to my GitHub! I'm passionate about breaking down security barriers and b
 - 🤝 Contributing to cybersecurity projects
 - 💡 Sharing security insights and research
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LingeshwarKulal&show_icons=true&theme=dark)
 
 ### 🔗 Connect With Me
 
