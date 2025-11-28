@@ -50,10 +50,8 @@ Welcome to my GitHub! I'm passionate about breaking down security barriers and b
 
 ### 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com) - Let's connect professionally
-- 🐦 [Twitter](https://twitter.com) - Follow for security tips
-- 📧 Email - lingeshwar@example.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/lingeshwarkulal2001/) - Let's connect professionally- 🐦 [Twitter](https://twitter.com) - Follow for security tips
+- 📧 Email - [lingeshwarkulal106@gmail.com](mailto:lingeshwarkulal106@gmail.com)
 ### ⚡ Quick Facts
 
 - 🎓 Passionate about cybersecurity education
