@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1F6FEB&center=true&width=900&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Penetration+Tester;Breaking+Systems...Building+Security)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 # Hi there 👋, I'm Lingeshwar Kulal
 
 ## Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester
