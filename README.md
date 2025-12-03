@@ -42,9 +42,6 @@ I believe in continuous learning and sharing knowledge with the cybersecurity co
 ### 💻 Technical Proficiency:
 - **Operating Systems:** Linux (Expert), Windows, macOS
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSL/TLS, VPN, Firewalls
-- **Programming:** Python, Bash, Go, JavaScript
-- **Databases:** SQL, NoSQL security
-- **Cloud Security:** AWS, Azure basics
 
 ---
 
