@@ -60,9 +60,9 @@ I believe in continuous learning and sharing knowledge with the cybersecurity co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LingeshwarKulal&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LingeshwarKulal&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/LingeshwarKulal)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LingeshwarKulal&theme=dark&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LingeshwarKulal&theme=dark&layout=compact)](https://github.com/LingeshwarKulal)username=LingeshwarKulal&theme=dark&layout=compact)
 
 </div>
 
